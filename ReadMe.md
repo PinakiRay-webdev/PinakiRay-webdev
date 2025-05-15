@@ -1,4 +1,4 @@
-![Alt text](https://drive.google.com/file/d/1Rf26UpQxltrKS7QeaM8tZJyfJ5jFYnqV/view?usp=sharing)
+![Alt text](https://drive.google.com/uc?export=view&id=1Rf26UpQxltrKS7QeaM8tZJyfJ5jFYnqV)
 # 💫 About Me:
 Hi 👋👋👋 , This is Pinaki Sankar Ray , dedicated and results-driven Computer Science student with a strong technical background and a 4-star rating on HackerRank. Seeking a full stack Software developer position to leverage my expertise in Java programming, software development, web devepment and problem-solving skills to contribute to the development of large-scale distributed applications and support innovative payment solutions.
 
